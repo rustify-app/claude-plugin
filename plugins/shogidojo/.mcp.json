@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shogidojo": {
+      "type": "http",
+      "url": "https://shogidojo.online/api/mcp"
+    }
+  }
+}

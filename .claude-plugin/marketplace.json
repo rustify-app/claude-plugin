@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "shogidojo",
+  "owner": {
+    "name": "LoveKapibarasan",
+    "email": "rustify@shogidojo.online",
+    "url": "https://shogidojo.online"
+  },
+  "description": "Shogi Dojo's plugin for Claude Code: review your shogi games and build review lists.",
+  "plugins": [
+    {
+      "name": "shogidojo",
+      "source": "./plugins/shogidojo",
+      "description": "Go over your Shogi Dojo games with the AI you talk to, look up how players continue from a position, and turn your mistakes into a review quiz.",
+      "category": "education",
+      "tags": [
+        "shogi",
+        "japanese-chess",
+        "kif",
+        "game-review",
+        "mcp"
+      ],
+      "homepage": "https://shogidojo.online/docs/public/ai.php",
+      "metadata": {
+        "generatedFrom": "Shogidojo/ai-plugins",
+        "sourceCommit": "ae6d82623a155115a6d4080533862d8076ec6864"
+      }
+    }
+  ]
+}
