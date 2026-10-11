@@ -20,4 +20,4 @@ On claude.ai you do not need this plugin: add `https://shogidojo.online/api/mcp`
 
 Documentation: https://shogidojo.online/docs/public/ai.php · Privacy: https://shogidojo.online/docs/public/privacy.php · Support: rustify@shogidojo.online
 
-This repository is generated. Its source is `ai-plugins` in the Shogi Dojo repository, commit `4f4f4f1902a4da91fbb46c414144207879cff122`; changes made here directly are overwritten by the next sync.
+This repository is generated. Its source is `ai-plugins` in the Shogi Dojo repository, commit `64351869bbb4ab4f6dbbe86183c454193a88e84f`; changes made here directly are overwritten by the next sync.
