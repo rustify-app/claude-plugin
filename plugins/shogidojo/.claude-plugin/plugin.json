@@ -1,6 +1,6 @@
 {
   "name": "shogidojo",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Go over your Shogi Dojo games with the AI you talk to, look up how players continue from a position, and turn your mistakes into a review quiz.",
   "author": {
     "name": "LoveKapibarasan",
@@ -8,6 +8,7 @@
     "url": "https://shogidojo.online"
   },
   "homepage": "https://shogidojo.online/docs/public/ai.php",
+  "privacyPolicyUrl": "https://shogidojo.online/docs/public/privacy.php",
   "license": "Apache-2.0",
   "keywords": [
     "shogi",
